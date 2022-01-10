@@ -1,11 +1,6 @@
-# data_structures_course_problems
-
-
-# **Data Structures Course Projects**
+# **Data Structures Course Projects** [![made-with-c](https://img.shields.io/badge/Made%20with-C-1f425f.svg)]()
 
 Welcome to the repository. Here, I will be sharing the assignments I completed for my 2nd year course, Data Structures and Algorithms. You will also see a .clang-format file in this repository. This is a file I created for myself to override VSCode's default formatting rules. You can copy and paste that file to your workspace folder if you also hate how the formatting pushes your parantheses' to a new line. 
-
-[![made-with-c](https://img.shields.io/badge/Made%20with-C-1f425f.svg)]()
 
 
 # Problems Solved In This Repository
@@ -15,12 +10,6 @@ Welcome to the repository. Here, I will be sharing the assignments I completed f
 - Implementing the Boyer-Moore Horspool Algorithm
 - Creating a Huffman Tree
 - Run Length Encoding
-
-<br />
-
-**_More will be added soon_**
-
-<br />
 
 ## Every Problem Explained
 
@@ -46,14 +35,12 @@ Welcome to the repository. Here, I will be sharing the assignments I completed f
 
 <br />
 
+**_More will be added soon_**
+
+<br />
+
 ---
 #### **If you have any further questions →**
-
-
-<br>
-
-[![Gmail][gmail-shield]][gmail-url]
-<br>
 
 [![Twitter][twitter-shield]][twitter-url]
 <br />
