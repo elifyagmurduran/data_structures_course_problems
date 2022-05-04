@@ -13,22 +13,22 @@ Welcome to the repository. Here, I will be sharing the assignments I completed f
 
 ## Every Problem Explained
 
-### _Cache Buffer System (Incomplete)_
+### _Cache Buffer System (Coming soon)_
 
 
 <br />
 
-### _Implementing the Boyer-Moore Horspool Algorithm (Incomplete)_
+### _Implementing the Boyer-Moore Horspool Algorithm (Coming soon)_
 
 
 <br />
 
-### _Creating a Huffman Tree (Incomplete)_
+### _Creating a Huffman Tree (Coming soon)_
 
 
 <br />
 
-### _Run Length Encoding (Incomplete)_
+### _Run Length Encoding (Coming soon)_
 
 
 
@@ -47,8 +47,6 @@ Welcome to the repository. Here, I will be sharing the assignments I completed f
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: https://mail.google.com/mail/u/0/#inbox
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]:https://www.linkedin.com/in/ya%C4%9Fmur-duran-645510182/
